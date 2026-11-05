@@ -46,3 +46,7 @@ Flashcards is a simple yet effective application designed to help users learn an
 2. Enter the corresponding answer in the "Answer" text box.
 3. Click "Save" to store the flashcard.
 4. Click "Show Cards" to display a random flashcard.
+
+## Credits
+
+App icon by [Icons8](https://icons8.com).
